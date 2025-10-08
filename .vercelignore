@@ -1,0 +1,29 @@
+# Dependencies
+node_modules
+npm-debug.log
+yarn-error.log
+
+# Environment
+.env
+.env*.local
+
+# Testing
+coverage
+.nyc_output
+
+# Build
+.next
+out
+dist
+build
+
+# Misc
+.DS_Store
+*.pem
+.vscode
+.idea
+
+# Documentation (keep local only)
+*.md
+!README.md
+
